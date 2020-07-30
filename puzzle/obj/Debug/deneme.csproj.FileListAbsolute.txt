@@ -1,0 +1,10 @@
+D:\DAMLA\OKUL\Projeler\Yazlab_2019\deneme\deneme\bin\Debug\deneme.exe.config
+D:\DAMLA\OKUL\Projeler\Yazlab_2019\deneme\deneme\bin\Debug\deneme.exe
+D:\DAMLA\OKUL\Projeler\Yazlab_2019\deneme\deneme\bin\Debug\deneme.pdb
+D:\DAMLA\OKUL\Projeler\Yazlab_2019\deneme\deneme\obj\Debug\deneme.csprojAssemblyReference.cache
+D:\DAMLA\OKUL\Projeler\Yazlab_2019\deneme\deneme\obj\Debug\deneme.Form1.resources
+D:\DAMLA\OKUL\Projeler\Yazlab_2019\deneme\deneme\obj\Debug\deneme.Properties.Resources.resources
+D:\DAMLA\OKUL\Projeler\Yazlab_2019\deneme\deneme\obj\Debug\deneme.csproj.GenerateResource.cache
+D:\DAMLA\OKUL\Projeler\Yazlab_2019\deneme\deneme\obj\Debug\deneme.csproj.CoreCompileInputs.cache
+D:\DAMLA\OKUL\Projeler\Yazlab_2019\deneme\deneme\obj\Debug\deneme.exe
+D:\DAMLA\OKUL\Projeler\Yazlab_2019\deneme\deneme\obj\Debug\deneme.pdb
